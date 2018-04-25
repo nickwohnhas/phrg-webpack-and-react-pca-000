@@ -165,3 +165,4 @@ Every lab from now on in this section will have these tools set up for you. You 
 [swol]: https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13109122_818162874981972_854250567_n.jpg?ig_cache_key=MTI0MDEwMTQwNDQ5MDUyOTM2MQ%3D%3D.2.l
 [hydrofoil]:https://www.google.com/search?q=hydrofoil+catamaran&source=lnms&tbm=isch&sa=X&ved=0ahUKEwia5Yyls-rZAhWIjVkKHdd-A3MQ_AUICygC&biw=1280&bih=659#imgrc=JhI18wkkvwakwM:
 [they-fly]:https://www.youtube.com/watch?v=a49jy9ba4FQ&t=06m
+<p data-visibility='hidden'>PHRG Webpack and React</p>
